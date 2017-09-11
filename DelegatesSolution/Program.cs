@@ -16,7 +16,7 @@ namespace DelegatesSolution
             do {
 				// get the destination zone
 				Console.WriteLine("What is the destination zone?");
-				Console.WriteLine("What is the destination zone?");
+				Console.WriteLine("What is the destination zone1?");
                 theZone = Console.ReadLine();
 
                 // if the user wrote "exit" then terminate the program,
